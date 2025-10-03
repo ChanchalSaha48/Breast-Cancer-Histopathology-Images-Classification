@@ -44,7 +44,7 @@ from tensorflow.keras.callbacks import EarlyStopping,ModelCheckpoint,ReduceLROnP
 # Username chanchalsaha7
 # key: 9ae140efdb070deb48f1b8effc11f3d5
 
-od.download('https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images')
+
 
 #===========================================
 # Create DataFrame
