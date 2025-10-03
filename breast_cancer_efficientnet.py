@@ -33,7 +33,7 @@ from tensorflow.keras.layers import Dense,Dropout,GlobalAveragePooling2D
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
-## {"username":"chanchalsaha7","key":"9ae140efdb070deb48f1b8effc11f3d5"}
+
 
 link='https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images'
 od.download(link)
